@@ -1,0 +1,30 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #edf2f4;
+}
+.jumbotron .sosmed a i {
+  font-size: 2.5em;
+  margin: 4px;
+  color: #293241;
+}
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: #293241;
+  padding: 3rem;
+}
+table {
+  margin: auto;
+  font-size: 20px;
+}
+.resume1 {
+  text-align: justify;
+  padding-top: 2rem;
+  padding: 0;
+}
+footer {
+  background-color: #293241;
+  color: white;
+  padding: 2px;
+  text-align: center;
+}
